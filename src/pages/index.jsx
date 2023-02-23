@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import styles from '../styles/Home.module.css'
-import Logo from "../components/Atoms/Logo"
+import styles from 'src/styles/Home.module.css'
+import Logo from "src/components/Atoms/Logo"
 
 export default function Home() {
   return (
